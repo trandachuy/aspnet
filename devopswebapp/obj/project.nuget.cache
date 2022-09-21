@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+N6CjtDBmtfRDkJn9aobLtzBc+YXvYM+GOGAaM5D7eqpSJHbDGp5u4jH7hOssdKcr9NjUcKOotEyJ2Pt/1IpA==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Documents/dotnet_project/devops-webapp-solution/devopswebapp/devopswebapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
